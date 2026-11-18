@@ -6,8 +6,9 @@
 [![Git](https://img.shields.io/badge/Git-CI%2FCD-F05032?style=flat-square&logo=git&logoColor=white)]()
 
 Estudiante de Ingeniería Civil en Computación e Informática en la Universidad Mayor (Chile).
-Me especializo en el desarrollo backend, con un dominio profundo de **Java** y los pilares de la Programación Orientada a Objetos (POO), contratos de diseño e invariantes.
-Construyo sistemas robustos bajo arquitecturas modulares en capas, aplicando bases de datos relacionales, pruebas automatizadas y estándares de seguridad desde el diseño.
+
+Interés en desarrollo de **Backend** específicamente la capa del **Middleware**, conocimiento en **Programación Orientada a Objetos (POO)** en **Java** y **arquitectura de software**. Experiencia práctica diseñando y desplegando sistemas modulares en capas, **APIs RESTful**, **bases de datos relacionales** en la nube (Azure/PostgreSQL) y flujos CI/CD. Buena orientación a la calidad de código mediante diseño por contratos, pruebas automatizadas y seguridad desde el diseño. **En búsqueda de Práctica Inicial o rol Backend Trainee/Junior.**
+
 A continuación, presento la documentación técnica y de calidad de los proyectos clave en los que he participado:
 
 | Proyecto | Componente / Enfoque Técnico | Documentación y QA Clave |
