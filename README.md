@@ -15,5 +15,5 @@ Below is the technical and quality documentation for the key projects I have par
 | **DriWin** | Modular Monolith (Node.js/TS, Azure, PostgreSQL) | [User Manual](https://github.com/VinJimbo97/DriWinProyect/blob/main/docs) · [Data Model](https://github.com/VinJimbo97/DriWinProyect/blob/main/db/modelo_datos.md) · [Quality & QA](https://github.com/VinJimbo97/DriWinProyect/tree/main/docs/qa) |
 | **LegalFactorIA** | Law 21.719 Compliance (FastAPI, Python, AI) | [Architecture](https://github.com/Sxnr/LegalFactorIA/blob/main/docs/ARQUITECTURA.md) · [SOHO Standard](https://github.com/Sxnr/LegalFactorIA/blob/main/docs/ESTANDAR_SOHO.md) · [Security](https://github.com/Sxnr/LegalFactorIA/blob/main/SECURITY.md) |
 
-Main stack: Java · TypeScript · Node.js · Python · Git · CI/CD (GitHub Actions).
+Main stack: Java · Node.js · Git
 Looking for an Internship or a Backend Trainee/Junior role to apply technical rigor and fast adaptability.
